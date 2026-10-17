@@ -56,3 +56,21 @@ Copie-colle cette liste dans tes notes et coche-la :
 - Chaque perso a **sa propre énergie Odyle**. Un reroll au 45 = un deuxième revenu d'Odyle, de Kina et de matériaux.
 - ⚠️ Les clés Shugo et certaines limites de boutique sont **par serveur**, pas par perso. Un reroll ne double donc **pas** tout.
 - Avant d'en faire un, concentre-toi d'abord sur **un seul personnage principal** jusqu'à environ 2 000 d'item level.
+
+### 📦 Passer des objets d'un perso à un autre
+
+Le jeu n'a pas d'entrepôt de compte : on passe par l'**entrepôt de serveur** (*Server Storage*), qui ne fonctionne **qu'entre persos du même serveur**.
+1. Va voir un PNJ **Storage Manager** (avec l'abonnement : bouton de **stockage à distance** en bas de l'inventaire).
+2. Passe de l'onglet *Character Storage* à **Server Storage**, et dépose les objets **depuis ton inventaire** (pas depuis l'entrepôt du perso).
+3. Connecte-toi sur ton autre perso et récupère-les au même endroit.
+
+| ✅ Transférable | ❌ Non transférable |
+|----------------|---------------------|
+| **Kina non liés** | Kina liés |
+| Consommables (nourriture, potions), minerais et matériaux | Récompenses de quête |
+| Équipement **pas encore lié** (jamais équipé) | Équipement **lié à l'âme** (*Soul Bound*), donc déjà équipé |
+| | Objets marqués **« Bound »** dans l'infobulle |
+
+- Pour un **autre serveur**, il faut passer par le **transfert de serveur** du perso (boutique, fenêtre ouverte jusqu'au 28 octobre ⚠️).
+- Le **transfert d'équipement** (*Gear Transfer*, niveau 45) est autre chose : il déplace l'enchantement d'un objet vers un autre **du même perso**, pas entre persos.
+- 💡 Si tu prévois un reroll, **n'équipe pas** les objets que tu veux lui passer.
