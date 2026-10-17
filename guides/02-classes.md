@@ -8,6 +8,8 @@
 
 ## ⚔️ Gladiateur (Gladiator) : DPS mêlée, le plus simple
 
+> 📖 **Guide complet : [classes/gladiateur.md](classes/gladiateur.md)**
+
 - **Points forts :** robuste, simple, très fort en PvP (S) et bon partout.
 - **Compétences à monter en premier :** **Overhead Slam**, **Rending Blow**, **Ruinous Blow**. Un guide Global conseille de les monter **toutes les trois au niveau 20 avant le reste**.
 - **Stigmas PvE (les plus joués par les meilleurs joueurs coréens) :** **Lunge Stance** (99 %), **Zikel's Blessing** (98,8 %), **Rage Burst** (96,9 %), **Focused Block** (94,7 %).
@@ -15,6 +17,8 @@
 - **Stats :** les guides ne sont pas d'accord (Puissance > Précision, ou Précision > Critique > Attaque). Règle simple : **monte la Précision jusqu'à ne plus rater tes coups, puis Attaque et Critique**.
 
 ## 🛡️ Templier (Templar) : le seul tank pur
+
+> 📖 **Guide complet : [classes/templier.md](classes/templier.md)**
 
 - **Points forts :** toujours demandé en groupe (S en PvE).
 - **Compétences :** **Judgment** (la principale), puis **Punishment**, **Warding Strike** et **Shield Smite**.

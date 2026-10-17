@@ -13,7 +13,9 @@ Ton guide perso pour AION 2, en français. Il vise le chemin le plus efficace, d
 |---|-------|-----------------|
 | 0 | [**Plan 30 jours (abonnement)**](guides/00-plan-30-jours.md) | Le planning jour par jour pour rentabiliser ton abonnement |
 | 1 | [Bien démarrer : faction, serveur, classe](guides/01-demarrage.md) | Les choix à faire avant de créer ton perso |
-| 2 | [Les 8 classes en détail](guides/02-classes.md) | Rôles, tier list, skills, stigmas, stats |
+| 2 | [Les 8 classes en détail](guides/02-classes.md) | Rôles, tier list, compétences, stigmas, stats |
+| 2a | [**Guide Gladiateur**](guides/classes/gladiateur.md) | Stats, équipement, compétences, stigmas et Daevanion, en PvE et PvP |
+| 2b | [**Guide Templier**](guides/classes/templier.md) | Stats, équipement, compétences, stigmas et Daevanion, en PvE et PvP |
 | 3 | [Leveling 1 → 45 le plus rapide](guides/03-leveling.md) | La route optimale, les zones, les déblocages |
 | 4 | [Daevanion & Stigmas](guides/04-daevanion-stigmas.md) | Où mettre tes points, dans quel ordre |
 | 5 | [Ressources : GARDER ou DÉPENSER ?](guides/05-ressources.md) | ⭐ Le guide le plus important : chaque ressource et quand la dépenser |
